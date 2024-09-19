@@ -1,0 +1,3 @@
+- npm install
+- npx astro dev
+- open the homepage link (http://localhost:4322/ for me)
